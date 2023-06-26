@@ -1,9 +1,29 @@
-Certainly! Here's an explanation of each task in pandas:
+Explain the following in panads
+1. Summing Multiple Columns to Create new Column.
+2. Rearranging columns
+3. Saving our Data (CSV, Excel, TXT, etc.)
+4. Filtering Data (based on multiple conditions)
+5.Reset Index
+6.Regex Filtering (filter based on textual patterns)
+7. Conditional Changes
+8.Aggregate Statistics using Groupby (Sum, Mean, Counting)
+9. Working with large amounts of data (setting chunksize)
+
+
+
+
+
+
+
+
+
+
+
+Certainly! Heres an explanation of each task in pandas:
 
 Summing Multiple Columns to Create a New Column:
-To sum multiple columns and create a new column with the total, you can use the sum() function along with column selection. Here's an example:
-python
-Copy code
+To sum multiple columns and create a new column with the total, you can use the sum() function along with column selection. Heres an example:
+
 import pandas as pd
 
 # Sum multiple columns and create a new column
@@ -12,8 +32,7 @@ Replace column1, column2, column3 with the names of the columns you want to sum.
 
 Rearranging Columns:
 To rearrange columns in a DataFrame, you can use indexing and assignment. Here's an example:
-python
-Copy code
+
 import pandas as pd
 
 # Rearrange columns
